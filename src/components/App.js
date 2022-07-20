@@ -11,18 +11,14 @@ function NavBar() {
 
 function Home() {
   return (
-    <div id="home">
-      <h1>{Home}</h1>
-    </div>
+    <div id="home">Home</div>
   );
 }
 
 {/* write an <About> component here */}
 function About () {
   return (
-    <div id = "about">
-      <h1>About</h1>
-    </div>
+    <div id = "about">About</div>
   );
 }
 
